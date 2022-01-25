@@ -1,0 +1,41 @@
+
+1.Datatypes in sequence:
+
+Byte-1byte
+Ushort-2bytes
+Uint-4bytes
+Ulong-8bytes
+
+
+Sbyte-1bytes
+Short-2bytes
+int-4bytes
+long-8bytes
+
+Float-4Bytes
+Double-8Bytes
+Decimal-16Bytes
+
+Boolean
+Char
+String
+
+2.Number Systems
+
+a.Binary NumberSystem-0 to 1
+b.Octal NumerSystem-0 to 7
+c.Decimal NumberSystem-0 to 9
+d.Hexa Decimal NumberSystem-0 to 9 and A to F 
+
+3.Conversion of Decimal to Binary
+
+55-110111
+24-11000
+18-10010
+
+4.Conversion of Binary to Decimal
+
+10110-22
+1011-11
+101110-46
+

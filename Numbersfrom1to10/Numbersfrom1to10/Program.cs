@@ -10,10 +10,10 @@ namespace Numbersfrom1to10
     {
         static void Main(string[] args)
         {
-            for(int i=1;i<=10;i++)
+            int i;
+            for (i = 1; i <= 10; i++)
             {
                 Console.WriteLine(i);
-                
             }
             Console.ReadLine();
         }

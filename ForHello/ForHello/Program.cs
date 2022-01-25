@@ -14,6 +14,7 @@ namespace ForHello
             {
                 Console.WriteLine("Hello");   
             }
+            Console.ReadLine();
         }
     }
 }
