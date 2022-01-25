@@ -1,0 +1,8 @@
+C:\NH\.NET Projects\ForHello\ForHello\bin\Debug\ForHello.exe.config
+C:\NH\.NET Projects\ForHello\ForHello\bin\Debug\ForHello.exe
+C:\NH\.NET Projects\ForHello\ForHello\bin\Debug\ForHello.pdb
+C:\NH\.NET Projects\ForHello\ForHello\obj\Debug\ForHello.csproj.AssemblyReference.cache
+C:\NH\.NET Projects\ForHello\ForHello\obj\Debug\ForHello.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\ForHello\ForHello\obj\Debug\ForHello.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\ForHello\ForHello\obj\Debug\ForHello.exe
+C:\NH\.NET Projects\ForHello\ForHello\obj\Debug\ForHello.pdb

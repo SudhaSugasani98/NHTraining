@@ -1,0 +1,7 @@
+C:\NH\.NET Projects\Numbersfrom1to10\Numbersfrom1to10\bin\Debug\Numbersfrom1to10.exe.config
+C:\NH\.NET Projects\Numbersfrom1to10\Numbersfrom1to10\bin\Debug\Numbersfrom1to10.exe
+C:\NH\.NET Projects\Numbersfrom1to10\Numbersfrom1to10\bin\Debug\Numbersfrom1to10.pdb
+C:\NH\.NET Projects\Numbersfrom1to10\Numbersfrom1to10\obj\Debug\Numbersfrom1to10.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\Numbersfrom1to10\Numbersfrom1to10\obj\Debug\Numbersfrom1to10.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Numbersfrom1to10\Numbersfrom1to10\obj\Debug\Numbersfrom1to10.exe
+C:\NH\.NET Projects\Numbersfrom1to10\Numbersfrom1to10\obj\Debug\Numbersfrom1to10.pdb
