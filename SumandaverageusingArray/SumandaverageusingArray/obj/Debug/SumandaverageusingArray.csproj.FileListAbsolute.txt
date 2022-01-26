@@ -5,3 +5,4 @@ C:\NH\.NET Projects\SumandaverageusingArray\SumandaverageusingArray\obj\Debug\Su
 C:\NH\.NET Projects\SumandaverageusingArray\SumandaverageusingArray\obj\Debug\SumandaverageusingArray.csproj.CoreCompileInputs.cache
 C:\NH\.NET Projects\SumandaverageusingArray\SumandaverageusingArray\obj\Debug\SumandaverageusingArray.exe
 C:\NH\.NET Projects\SumandaverageusingArray\SumandaverageusingArray\obj\Debug\SumandaverageusingArray.pdb
+C:\NH\.NET Projects\SumandaverageusingArray\SumandaverageusingArray\obj\Debug\SumandaverageusingArray.csproj.AssemblyReference.cache

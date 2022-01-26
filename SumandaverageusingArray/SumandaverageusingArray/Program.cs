@@ -14,7 +14,7 @@ namespace SumandaverageusingArray
 
             int[] data = new int[5];
             int Sum = 0;
-            int Average;
+           float Average;
 
             //Read data from user
             for(int i = 0; i < data.Length; i++)
@@ -30,7 +30,7 @@ namespace SumandaverageusingArray
             {
                 Sum= Sum + data[i];
             }
-            Average = Sum/5;
+            Average = (float)Sum/data.Length;
             //Print Output
 
             Console.WriteLine("Sum=" + Sum);
