@@ -1,0 +1,8 @@
+C:\NH\.NET Projects\SumofNnaturalnumbers\SumofNnaturalnumbers\bin\Debug\SumofNnaturalnumbers.exe.config
+C:\NH\.NET Projects\SumofNnaturalnumbers\SumofNnaturalnumbers\bin\Debug\SumofNnaturalnumbers.exe
+C:\NH\.NET Projects\SumofNnaturalnumbers\SumofNnaturalnumbers\bin\Debug\SumofNnaturalnumbers.pdb
+C:\NH\.NET Projects\SumofNnaturalnumbers\SumofNnaturalnumbers\obj\Debug\SumofNnaturalnumbers.csproj.AssemblyReference.cache
+C:\NH\.NET Projects\SumofNnaturalnumbers\SumofNnaturalnumbers\obj\Debug\SumofNnaturalnumbers.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\SumofNnaturalnumbers\SumofNnaturalnumbers\obj\Debug\SumofNnaturalnumbers.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\SumofNnaturalnumbers\SumofNnaturalnumbers\obj\Debug\SumofNnaturalnumbers.exe
+C:\NH\.NET Projects\SumofNnaturalnumbers\SumofNnaturalnumbers\obj\Debug\SumofNnaturalnumbers.pdb

@@ -1,0 +1,8 @@
+C:\NH\.NET Projects\Checkingvowelsbyswitchcase\Checkingvowelsbyswitchcase\bin\Debug\Checkingvowelsbyswitchcase.exe.config
+C:\NH\.NET Projects\Checkingvowelsbyswitchcase\Checkingvowelsbyswitchcase\bin\Debug\Checkingvowelsbyswitchcase.exe
+C:\NH\.NET Projects\Checkingvowelsbyswitchcase\Checkingvowelsbyswitchcase\bin\Debug\Checkingvowelsbyswitchcase.pdb
+C:\NH\.NET Projects\Checkingvowelsbyswitchcase\Checkingvowelsbyswitchcase\obj\Debug\Checkingvowelsbyswitchcase.csproj.AssemblyReference.cache
+C:\NH\.NET Projects\Checkingvowelsbyswitchcase\Checkingvowelsbyswitchcase\obj\Debug\Checkingvowelsbyswitchcase.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\Checkingvowelsbyswitchcase\Checkingvowelsbyswitchcase\obj\Debug\Checkingvowelsbyswitchcase.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Checkingvowelsbyswitchcase\Checkingvowelsbyswitchcase\obj\Debug\Checkingvowelsbyswitchcase.exe
+C:\NH\.NET Projects\Checkingvowelsbyswitchcase\Checkingvowelsbyswitchcase\obj\Debug\Checkingvowelsbyswitchcase.pdb

@@ -1,0 +1,7 @@
+C:\NH\.NET Projects\Printvaluesusingforeachloop\Printvaluesusingforeachloop\bin\Debug\Printvaluesusingforeachloop.exe.config
+C:\NH\.NET Projects\Printvaluesusingforeachloop\Printvaluesusingforeachloop\bin\Debug\Printvaluesusingforeachloop.exe
+C:\NH\.NET Projects\Printvaluesusingforeachloop\Printvaluesusingforeachloop\bin\Debug\Printvaluesusingforeachloop.pdb
+C:\NH\.NET Projects\Printvaluesusingforeachloop\Printvaluesusingforeachloop\obj\Debug\Printvaluesusingforeachloop.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\Printvaluesusingforeachloop\Printvaluesusingforeachloop\obj\Debug\Printvaluesusingforeachloop.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Printvaluesusingforeachloop\Printvaluesusingforeachloop\obj\Debug\Printvaluesusingforeachloop.exe
+C:\NH\.NET Projects\Printvaluesusingforeachloop\Printvaluesusingforeachloop\obj\Debug\Printvaluesusingforeachloop.pdb

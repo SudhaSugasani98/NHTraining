@@ -1,0 +1,7 @@
+C:\NH\.NET Projects\Multiplicationtable2ndway\Multiplicationtable2ndway\bin\Debug\Multiplicationtable2ndway.exe.config
+C:\NH\.NET Projects\Multiplicationtable2ndway\Multiplicationtable2ndway\bin\Debug\Multiplicationtable2ndway.exe
+C:\NH\.NET Projects\Multiplicationtable2ndway\Multiplicationtable2ndway\bin\Debug\Multiplicationtable2ndway.pdb
+C:\NH\.NET Projects\Multiplicationtable2ndway\Multiplicationtable2ndway\obj\Debug\Multiplicationtable2ndway.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\Multiplicationtable2ndway\Multiplicationtable2ndway\obj\Debug\Multiplicationtable2ndway.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Multiplicationtable2ndway\Multiplicationtable2ndway\obj\Debug\Multiplicationtable2ndway.exe
+C:\NH\.NET Projects\Multiplicationtable2ndway\Multiplicationtable2ndway\obj\Debug\Multiplicationtable2ndway.pdb

@@ -1,0 +1,7 @@
+C:\NH\.NET Projects\HellousingWhileloop\HellousingWhileloop\bin\Debug\HellousingWhileloop.exe.config
+C:\NH\.NET Projects\HellousingWhileloop\HellousingWhileloop\bin\Debug\HellousingWhileloop.exe
+C:\NH\.NET Projects\HellousingWhileloop\HellousingWhileloop\bin\Debug\HellousingWhileloop.pdb
+C:\NH\.NET Projects\HellousingWhileloop\HellousingWhileloop\obj\Debug\HellousingWhileloop.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\HellousingWhileloop\HellousingWhileloop\obj\Debug\HellousingWhileloop.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\HellousingWhileloop\HellousingWhileloop\obj\Debug\HellousingWhileloop.exe
+C:\NH\.NET Projects\HellousingWhileloop\HellousingWhileloop\obj\Debug\HellousingWhileloop.pdb

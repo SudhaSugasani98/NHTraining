@@ -1,0 +1,7 @@
+C:\NH\.NET Projects\Sumusingforeach\Sumusingforeach\bin\Debug\Sumusingforeach.exe.config
+C:\NH\.NET Projects\Sumusingforeach\Sumusingforeach\bin\Debug\Sumusingforeach.exe
+C:\NH\.NET Projects\Sumusingforeach\Sumusingforeach\bin\Debug\Sumusingforeach.pdb
+C:\NH\.NET Projects\Sumusingforeach\Sumusingforeach\obj\Debug\Sumusingforeach.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\Sumusingforeach\Sumusingforeach\obj\Debug\Sumusingforeach.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Sumusingforeach\Sumusingforeach\obj\Debug\Sumusingforeach.exe
+C:\NH\.NET Projects\Sumusingforeach\Sumusingforeach\obj\Debug\Sumusingforeach.pdb

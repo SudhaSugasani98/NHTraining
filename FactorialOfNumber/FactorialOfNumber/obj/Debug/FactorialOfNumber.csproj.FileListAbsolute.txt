@@ -1,0 +1,7 @@
+C:\NH\.NET Projects\FactorialOfNumber\FactorialOfNumber\bin\Debug\FactorialOfNumber.exe.config
+C:\NH\.NET Projects\FactorialOfNumber\FactorialOfNumber\bin\Debug\FactorialOfNumber.exe
+C:\NH\.NET Projects\FactorialOfNumber\FactorialOfNumber\bin\Debug\FactorialOfNumber.pdb
+C:\NH\.NET Projects\FactorialOfNumber\FactorialOfNumber\obj\Debug\FactorialOfNumber.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\FactorialOfNumber\FactorialOfNumber\obj\Debug\FactorialOfNumber.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\FactorialOfNumber\FactorialOfNumber\obj\Debug\FactorialOfNumber.exe
+C:\NH\.NET Projects\FactorialOfNumber\FactorialOfNumber\obj\Debug\FactorialOfNumber.pdb

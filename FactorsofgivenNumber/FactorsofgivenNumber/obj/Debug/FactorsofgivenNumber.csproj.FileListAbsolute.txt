@@ -1,0 +1,8 @@
+C:\NH\.NET Projects\FactorsofgivenNumber\FactorsofgivenNumber\bin\Debug\FactorsofgivenNumber.exe.config
+C:\NH\.NET Projects\FactorsofgivenNumber\FactorsofgivenNumber\bin\Debug\FactorsofgivenNumber.exe
+C:\NH\.NET Projects\FactorsofgivenNumber\FactorsofgivenNumber\bin\Debug\FactorsofgivenNumber.pdb
+C:\NH\.NET Projects\FactorsofgivenNumber\FactorsofgivenNumber\obj\Debug\FactorsofgivenNumber.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\FactorsofgivenNumber\FactorsofgivenNumber\obj\Debug\FactorsofgivenNumber.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\FactorsofgivenNumber\FactorsofgivenNumber\obj\Debug\FactorsofgivenNumber.exe
+C:\NH\.NET Projects\FactorsofgivenNumber\FactorsofgivenNumber\obj\Debug\FactorsofgivenNumber.pdb
+C:\NH\.NET Projects\FactorsofgivenNumber\FactorsofgivenNumber\obj\Debug\FactorsofgivenNumber.csproj.AssemblyReference.cache

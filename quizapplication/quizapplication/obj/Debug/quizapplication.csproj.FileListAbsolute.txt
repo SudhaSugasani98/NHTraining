@@ -1,0 +1,8 @@
+C:\NH\.NET Projects\quizapplication\quizapplication\bin\Debug\quizapplication.exe.config
+C:\NH\.NET Projects\quizapplication\quizapplication\bin\Debug\quizapplication.exe
+C:\NH\.NET Projects\quizapplication\quizapplication\bin\Debug\quizapplication.pdb
+C:\NH\.NET Projects\quizapplication\quizapplication\obj\Debug\quizapplication.csproj.AssemblyReference.cache
+C:\NH\.NET Projects\quizapplication\quizapplication\obj\Debug\quizapplication.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\quizapplication\quizapplication\obj\Debug\quizapplication.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\quizapplication\quizapplication\obj\Debug\quizapplication.exe
+C:\NH\.NET Projects\quizapplication\quizapplication\obj\Debug\quizapplication.pdb

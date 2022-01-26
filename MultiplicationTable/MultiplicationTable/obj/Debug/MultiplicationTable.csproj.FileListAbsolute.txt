@@ -1,0 +1,8 @@
+C:\NH\.NET Projects\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+C:\NH\.NET Projects\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+C:\NH\.NET Projects\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+C:\NH\.NET Projects\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.csproj.AssemblyReference.cache
+C:\NH\.NET Projects\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+C:\NH\.NET Projects\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.pdb

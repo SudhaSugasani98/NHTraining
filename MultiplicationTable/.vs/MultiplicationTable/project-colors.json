@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fef43721-c7b5-43b2-bf11-22a5b6587678": {
+      "ProjectGuid": "fef43721-c7b5-43b2-bf11-22a5b6587678",
+      "DisplayName": "MultiplicationTable",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
