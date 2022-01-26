@@ -1,0 +1,7 @@
+Arrays-
+1.Arrays are collection of similar datatypes.
+2.Array index starts from zero.
+3.Array variable size=Array length*datatype size
+4.Array size cannot be increased dynamically.
+5.Arrays require sequential memory allocation.
+6.When you are initialising the array with some value the size is not required.

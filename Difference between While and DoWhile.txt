@@ -1,0 +1,5 @@
+Difference between while & DoWhile
+While-While loop checks the condition first and then executes the statement.
+      While loop statement is executed zero times if the condition is false.
+doWhile-do while loop will execute the statement at least once, then the condition is checked.
+        If the condition is false whereas do while statement is executed at least once.
