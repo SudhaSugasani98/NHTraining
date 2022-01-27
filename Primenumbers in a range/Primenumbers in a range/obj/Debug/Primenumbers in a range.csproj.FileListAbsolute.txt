@@ -1,0 +1,8 @@
+C:\NH\.NET Projects\Primenumbers in a range\Primenumbers in a range\bin\Debug\Primenumbers in a range.exe.config
+C:\NH\.NET Projects\Primenumbers in a range\Primenumbers in a range\bin\Debug\Primenumbers in a range.exe
+C:\NH\.NET Projects\Primenumbers in a range\Primenumbers in a range\bin\Debug\Primenumbers in a range.pdb
+C:\NH\.NET Projects\Primenumbers in a range\Primenumbers in a range\obj\Debug\Primenumbers in a range.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\Primenumbers in a range\Primenumbers in a range\obj\Debug\Primenumbers in a range.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Primenumbers in a range\Primenumbers in a range\obj\Debug\Primenumbers in a range.exe
+C:\NH\.NET Projects\Primenumbers in a range\Primenumbers in a range\obj\Debug\Primenumbers in a range.pdb
+C:\NH\.NET Projects\Primenumbers in a range\Primenumbers in a range\obj\Debug\Primenumbers in a range.csproj.AssemblyReference.cache

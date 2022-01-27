@@ -1,0 +1,8 @@
+C:\NH\.NET Projects\ArmstrongNumber\ArmstrongNumber\bin\Debug\ArmstrongNumber.exe.config
+C:\NH\.NET Projects\ArmstrongNumber\ArmstrongNumber\bin\Debug\ArmstrongNumber.exe
+C:\NH\.NET Projects\ArmstrongNumber\ArmstrongNumber\bin\Debug\ArmstrongNumber.pdb
+C:\NH\.NET Projects\ArmstrongNumber\ArmstrongNumber\obj\Debug\ArmstrongNumber.csproj.AssemblyReference.cache
+C:\NH\.NET Projects\ArmstrongNumber\ArmstrongNumber\obj\Debug\ArmstrongNumber.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\ArmstrongNumber\ArmstrongNumber\obj\Debug\ArmstrongNumber.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\ArmstrongNumber\ArmstrongNumber\obj\Debug\ArmstrongNumber.exe
+C:\NH\.NET Projects\ArmstrongNumber\ArmstrongNumber\obj\Debug\ArmstrongNumber.pdb

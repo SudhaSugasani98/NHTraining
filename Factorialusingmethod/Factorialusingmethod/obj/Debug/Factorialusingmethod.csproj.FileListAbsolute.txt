@@ -1,0 +1,8 @@
+C:\NH\.NET Projects\Factorialusingmethod\Factorialusingmethod\bin\Debug\Factorialusingmethod.exe.config
+C:\NH\.NET Projects\Factorialusingmethod\Factorialusingmethod\bin\Debug\Factorialusingmethod.exe
+C:\NH\.NET Projects\Factorialusingmethod\Factorialusingmethod\bin\Debug\Factorialusingmethod.pdb
+C:\NH\.NET Projects\Factorialusingmethod\Factorialusingmethod\obj\Debug\Factorialusingmethod.csproj.AssemblyReference.cache
+C:\NH\.NET Projects\Factorialusingmethod\Factorialusingmethod\obj\Debug\Factorialusingmethod.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\Factorialusingmethod\Factorialusingmethod\obj\Debug\Factorialusingmethod.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Factorialusingmethod\Factorialusingmethod\obj\Debug\Factorialusingmethod.exe
+C:\NH\.NET Projects\Factorialusingmethod\Factorialusingmethod\obj\Debug\Factorialusingmethod.pdb

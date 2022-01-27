@@ -28,7 +28,8 @@ namespace SumofNnaturalnumbers
 
 
             //Output
-            Console.WriteLine(Sum);
+            Console.WriteLine("Sum of {0} natural numbers is {1}",input,Sum);
+            Console.ReadLine();
         }
     }
 }

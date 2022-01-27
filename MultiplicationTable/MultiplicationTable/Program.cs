@@ -23,7 +23,7 @@ namespace MultiplicationTable
             {
                 Console.WriteLine(input+"x"+i+"="+input*i);
             }
-
+            Console.ReadLine();
         }
     }
 }

@@ -1,0 +1,8 @@
+C:\NH\.NET Projects\Primenumber using function\Primenumber using function\bin\Debug\Primenumber using function.exe.config
+C:\NH\.NET Projects\Primenumber using function\Primenumber using function\bin\Debug\Primenumber using function.exe
+C:\NH\.NET Projects\Primenumber using function\Primenumber using function\bin\Debug\Primenumber using function.pdb
+C:\NH\.NET Projects\Primenumber using function\Primenumber using function\obj\Debug\Primenumber using function.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\Primenumber using function\Primenumber using function\obj\Debug\Primenumber using function.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Primenumber using function\Primenumber using function\obj\Debug\Primenumber using function.exe
+C:\NH\.NET Projects\Primenumber using function\Primenumber using function\obj\Debug\Primenumber using function.pdb
+C:\NH\.NET Projects\Primenumber using function\Primenumber using function\obj\Debug\Primenumber using function.csproj.AssemblyReference.cache

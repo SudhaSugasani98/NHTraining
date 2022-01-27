@@ -1,0 +1,7 @@
+C:\NH\.NET Projects\Armstrongnumberusingfunction\Armstrongnumberusingfunction\bin\Debug\Armstrongnumberusingfunction.exe.config
+C:\NH\.NET Projects\Armstrongnumberusingfunction\Armstrongnumberusingfunction\bin\Debug\Armstrongnumberusingfunction.exe
+C:\NH\.NET Projects\Armstrongnumberusingfunction\Armstrongnumberusingfunction\bin\Debug\Armstrongnumberusingfunction.pdb
+C:\NH\.NET Projects\Armstrongnumberusingfunction\Armstrongnumberusingfunction\obj\Debug\Armstrongnumberusingfunction.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\Armstrongnumberusingfunction\Armstrongnumberusingfunction\obj\Debug\Armstrongnumberusingfunction.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Armstrongnumberusingfunction\Armstrongnumberusingfunction\obj\Debug\Armstrongnumberusingfunction.exe
+C:\NH\.NET Projects\Armstrongnumberusingfunction\Armstrongnumberusingfunction\obj\Debug\Armstrongnumberusingfunction.pdb

@@ -1,0 +1,7 @@
+C:\NH\.NET Projects\Primenumber\Primenumber\bin\Debug\Primenumber.exe.config
+C:\NH\.NET Projects\Primenumber\Primenumber\bin\Debug\Primenumber.exe
+C:\NH\.NET Projects\Primenumber\Primenumber\bin\Debug\Primenumber.pdb
+C:\NH\.NET Projects\Primenumber\Primenumber\obj\Debug\Primenumber.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\Primenumber\Primenumber\obj\Debug\Primenumber.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Primenumber\Primenumber\obj\Debug\Primenumber.exe
+C:\NH\.NET Projects\Primenumber\Primenumber\obj\Debug\Primenumber.pdb

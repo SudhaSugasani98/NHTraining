@@ -19,13 +19,17 @@ namespace FactorsofgivenNumber
 
 
             //Logic and Output
+            Console.WriteLine("The factors of {0} are",input);
             for(int i = 1; i < input;i++)
             {
                 if(input%i==0)
                 {
                     Console.WriteLine(i);  
                 }
+               
             }
-        }
+            
+            Console.ReadLine();
+        } 
     }
 }

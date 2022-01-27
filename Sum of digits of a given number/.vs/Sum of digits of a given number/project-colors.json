@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eaa6e555-626f-41e2-8ea9-4b6450df0dcb": {
+      "ProjectGuid": "eaa6e555-626f-41e2-8ea9-4b6450df0dcb",
+      "DisplayName": "Sum of digits of a given number",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

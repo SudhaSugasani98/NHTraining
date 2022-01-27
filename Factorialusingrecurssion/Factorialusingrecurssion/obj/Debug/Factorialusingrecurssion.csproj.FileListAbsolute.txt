@@ -1,0 +1,8 @@
+C:\NH\.NET Projects\Factorialusingrecurssion\Factorialusingrecurssion\bin\Debug\Factorialusingrecurssion.exe.config
+C:\NH\.NET Projects\Factorialusingrecurssion\Factorialusingrecurssion\bin\Debug\Factorialusingrecurssion.exe
+C:\NH\.NET Projects\Factorialusingrecurssion\Factorialusingrecurssion\bin\Debug\Factorialusingrecurssion.pdb
+C:\NH\.NET Projects\Factorialusingrecurssion\Factorialusingrecurssion\obj\Debug\Factorialusingrecurssion.csproj.AssemblyReference.cache
+C:\NH\.NET Projects\Factorialusingrecurssion\Factorialusingrecurssion\obj\Debug\Factorialusingrecurssion.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\Factorialusingrecurssion\Factorialusingrecurssion\obj\Debug\Factorialusingrecurssion.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Factorialusingrecurssion\Factorialusingrecurssion\obj\Debug\Factorialusingrecurssion.exe
+C:\NH\.NET Projects\Factorialusingrecurssion\Factorialusingrecurssion\obj\Debug\Factorialusingrecurssion.pdb

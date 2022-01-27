@@ -1,0 +1,8 @@
+C:\NH\.NET Projects\Sum of digits of a given number\Sum of digits of a given number\bin\Debug\Sum of digits of a given number.exe.config
+C:\NH\.NET Projects\Sum of digits of a given number\Sum of digits of a given number\bin\Debug\Sum of digits of a given number.exe
+C:\NH\.NET Projects\Sum of digits of a given number\Sum of digits of a given number\bin\Debug\Sum of digits of a given number.pdb
+C:\NH\.NET Projects\Sum of digits of a given number\Sum of digits of a given number\obj\Debug\Sum of digits of a given number.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\Sum of digits of a given number\Sum of digits of a given number\obj\Debug\Sum of digits of a given number.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Sum of digits of a given number\Sum of digits of a given number\obj\Debug\Sum of digits of a given number.exe
+C:\NH\.NET Projects\Sum of digits of a given number\Sum of digits of a given number\obj\Debug\Sum of digits of a given number.pdb
+C:\NH\.NET Projects\Sum of digits of a given number\Sum of digits of a given number\obj\Debug\Sum of digits of a given number.csproj.AssemblyReference.cache

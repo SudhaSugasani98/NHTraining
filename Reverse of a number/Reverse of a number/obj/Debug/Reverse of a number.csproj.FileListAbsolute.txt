@@ -1,0 +1,7 @@
+C:\NH\.NET Projects\Reverse of a number\Reverse of a number\bin\Debug\Reverse of a number.exe.config
+C:\NH\.NET Projects\Reverse of a number\Reverse of a number\bin\Debug\Reverse of a number.exe
+C:\NH\.NET Projects\Reverse of a number\Reverse of a number\bin\Debug\Reverse of a number.pdb
+C:\NH\.NET Projects\Reverse of a number\Reverse of a number\obj\Debug\Reverse of a number.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\Reverse of a number\Reverse of a number\obj\Debug\Reverse of a number.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Reverse of a number\Reverse of a number\obj\Debug\Reverse of a number.exe
+C:\NH\.NET Projects\Reverse of a number\Reverse of a number\obj\Debug\Reverse of a number.pdb

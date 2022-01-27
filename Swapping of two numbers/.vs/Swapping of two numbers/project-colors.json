@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "77cd9bcc-00d7-47d9-be9f-70afe3f3e40e": {
+      "ProjectGuid": "77cd9bcc-00d7-47d9-be9f-70afe3f3e40e",
+      "DisplayName": "Swapping of two numbers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

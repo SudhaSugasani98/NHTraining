@@ -10,6 +10,8 @@ namespace Day1Project3
     {
         static void Main(string[] args)
         {
+            //Variable declaration
+
             int fn, sn;
             int p = 1;
 
@@ -17,6 +19,9 @@ namespace Day1Project3
             fn = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter Second Number");
             sn = Convert.ToInt32(Console.ReadLine());
+
+            //Logic and output
+
             for (int i = 1; i <= sn; i++)
                 p = p * fn;
             

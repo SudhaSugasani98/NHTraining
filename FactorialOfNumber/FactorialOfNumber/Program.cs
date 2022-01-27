@@ -27,7 +27,8 @@ namespace FactorialOfNumber
 
 
             //Output
-            Console.WriteLine(fact);
+            Console.WriteLine("The factorial of {0} is {1}",input,fact);
+            Console.ReadLine();
         }
     }
 }

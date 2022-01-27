@@ -1,0 +1,8 @@
+C:\NH\.NET Projects\Swapping of two numbers\Swapping of two numbers\bin\Debug\Swapping of two numbers.exe.config
+C:\NH\.NET Projects\Swapping of two numbers\Swapping of two numbers\bin\Debug\Swapping of two numbers.exe
+C:\NH\.NET Projects\Swapping of two numbers\Swapping of two numbers\bin\Debug\Swapping of two numbers.pdb
+C:\NH\.NET Projects\Swapping of two numbers\Swapping of two numbers\obj\Debug\Swapping of two numbers.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\Swapping of two numbers\Swapping of two numbers\obj\Debug\Swapping of two numbers.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Swapping of two numbers\Swapping of two numbers\obj\Debug\Swapping of two numbers.exe
+C:\NH\.NET Projects\Swapping of two numbers\Swapping of two numbers\obj\Debug\Swapping of two numbers.pdb
+C:\NH\.NET Projects\Swapping of two numbers\Swapping of two numbers\obj\Debug\Swapping of two numbers.csproj.AssemblyReference.cache

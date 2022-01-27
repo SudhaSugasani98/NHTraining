@@ -1,0 +1,7 @@
+C:\NH\.NET Projects\Palindrome number\Palindrome number\bin\Debug\Palindrome number.exe.config
+C:\NH\.NET Projects\Palindrome number\Palindrome number\bin\Debug\Palindrome number.exe
+C:\NH\.NET Projects\Palindrome number\Palindrome number\bin\Debug\Palindrome number.pdb
+C:\NH\.NET Projects\Palindrome number\Palindrome number\obj\Debug\Palindrome number.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\Palindrome number\Palindrome number\obj\Debug\Palindrome number.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Palindrome number\Palindrome number\obj\Debug\Palindrome number.exe
+C:\NH\.NET Projects\Palindrome number\Palindrome number\obj\Debug\Palindrome number.pdb

@@ -1,0 +1,7 @@
+C:\NH\.NET Projects\Rightangled triangle Pattern\Rightangled triangle Pattern\bin\Debug\Rightangled triangle Pattern.exe.config
+C:\NH\.NET Projects\Rightangled triangle Pattern\Rightangled triangle Pattern\bin\Debug\Rightangled triangle Pattern.exe
+C:\NH\.NET Projects\Rightangled triangle Pattern\Rightangled triangle Pattern\bin\Debug\Rightangled triangle Pattern.pdb
+C:\NH\.NET Projects\Rightangled triangle Pattern\Rightangled triangle Pattern\obj\Debug\Rightangled triangle Pattern.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\Rightangled triangle Pattern\Rightangled triangle Pattern\obj\Debug\Rightangled triangle Pattern.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Rightangled triangle Pattern\Rightangled triangle Pattern\obj\Debug\Rightangled triangle Pattern.exe
+C:\NH\.NET Projects\Rightangled triangle Pattern\Rightangled triangle Pattern\obj\Debug\Rightangled triangle Pattern.pdb

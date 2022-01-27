@@ -1,0 +1,7 @@
+C:\NH\.NET Projects\Armstrongnumbers in a range\Armstrongnumbers in a range\bin\Debug\Armstrongnumbers in a range.exe.config
+C:\NH\.NET Projects\Armstrongnumbers in a range\Armstrongnumbers in a range\bin\Debug\Armstrongnumbers in a range.exe
+C:\NH\.NET Projects\Armstrongnumbers in a range\Armstrongnumbers in a range\bin\Debug\Armstrongnumbers in a range.pdb
+C:\NH\.NET Projects\Armstrongnumbers in a range\Armstrongnumbers in a range\obj\Debug\Armstrongnumbers in a range.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\Armstrongnumbers in a range\Armstrongnumbers in a range\obj\Debug\Armstrongnumbers in a range.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Armstrongnumbers in a range\Armstrongnumbers in a range\obj\Debug\Armstrongnumbers in a range.exe
+C:\NH\.NET Projects\Armstrongnumbers in a range\Armstrongnumbers in a range\obj\Debug\Armstrongnumbers in a range.pdb
