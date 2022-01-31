@@ -16,7 +16,8 @@ namespace Arraylistsum
             data.Add(5);
             data.Add(10);
             data.Add(20);
-            data.Add(30);
+            data.Add(30);		
+
             data.Add(50);
             foreach(var d in data)
             {
@@ -24,6 +25,7 @@ namespace Arraylistsum
                
 
             }
+
             Console.WriteLine(sum);
             Console.ReadLine();
         }

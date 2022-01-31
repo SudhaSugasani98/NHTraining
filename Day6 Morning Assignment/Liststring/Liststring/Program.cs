@@ -30,6 +30,8 @@ namespace Liststring
             //Print values using lambda expression
             data.ForEach(p =>Console.WriteLine(p));
             Console.ReadLine();
+
+            
         }
     }
 }

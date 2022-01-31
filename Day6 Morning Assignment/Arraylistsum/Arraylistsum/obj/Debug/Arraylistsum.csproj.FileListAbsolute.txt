@@ -6,3 +6,11 @@ C:\NH\.NET Projects\Arraylistsum\Arraylistsum\obj\Debug\Arraylistsum.csproj.Sugg
 C:\NH\.NET Projects\Arraylistsum\Arraylistsum\obj\Debug\Arraylistsum.csproj.CoreCompileInputs.cache
 C:\NH\.NET Projects\Arraylistsum\Arraylistsum\obj\Debug\Arraylistsum.exe
 C:\NH\.NET Projects\Arraylistsum\Arraylistsum\obj\Debug\Arraylistsum.pdb
+C:\NH\.NET Projects\Day6 Morning Assignment\Arraylistsum\Arraylistsum\bin\Debug\Arraylistsum.exe.config
+C:\NH\.NET Projects\Day6 Morning Assignment\Arraylistsum\Arraylistsum\bin\Debug\Arraylistsum.exe
+C:\NH\.NET Projects\Day6 Morning Assignment\Arraylistsum\Arraylistsum\bin\Debug\Arraylistsum.pdb
+C:\NH\.NET Projects\Day6 Morning Assignment\Arraylistsum\Arraylistsum\obj\Debug\Arraylistsum.csproj.AssemblyReference.cache
+C:\NH\.NET Projects\Day6 Morning Assignment\Arraylistsum\Arraylistsum\obj\Debug\Arraylistsum.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\Day6 Morning Assignment\Arraylistsum\Arraylistsum\obj\Debug\Arraylistsum.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Day6 Morning Assignment\Arraylistsum\Arraylistsum\obj\Debug\Arraylistsum.exe
+C:\NH\.NET Projects\Day6 Morning Assignment\Arraylistsum\Arraylistsum\obj\Debug\Arraylistsum.pdb

@@ -1,0 +1,12 @@
+ArrayList:
+Items are stored on an index basis. 
+It is an object type,so we can store any values(valuetype or referencetype) such as String,int,etc
+Boxing and unboxing will happen in this  
+  
+
+
+
+
+
+
+

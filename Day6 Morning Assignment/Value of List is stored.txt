@@ -1,0 +1,5 @@
+List <T>:
+It is a generic type.
+It is type of type(List<T>),you can only store an value of Type T(string or int)based on the declaration.
+Boxing and unboxing will not happen in this.
+List<T> is a reference type. Internally it uses T[]. Array is a reference type. Instances of reference types are stored on the heap. 
