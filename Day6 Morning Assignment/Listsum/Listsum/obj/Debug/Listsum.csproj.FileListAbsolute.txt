@@ -1,0 +1,7 @@
+C:\NH\.NET Projects\Listsum\Listsum\bin\Debug\Listsum.exe.config
+C:\NH\.NET Projects\Listsum\Listsum\bin\Debug\Listsum.exe
+C:\NH\.NET Projects\Listsum\Listsum\bin\Debug\Listsum.pdb
+C:\NH\.NET Projects\Listsum\Listsum\obj\Debug\Listsum.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\Listsum\Listsum\obj\Debug\Listsum.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Listsum\Listsum\obj\Debug\Listsum.exe
+C:\NH\.NET Projects\Listsum\Listsum\obj\Debug\Listsum.pdb

@@ -1,0 +1,8 @@
+C:\NH\.NET Projects\Liststring\Liststring\bin\Debug\Liststring.exe.config
+C:\NH\.NET Projects\Liststring\Liststring\bin\Debug\Liststring.exe
+C:\NH\.NET Projects\Liststring\Liststring\bin\Debug\Liststring.pdb
+C:\NH\.NET Projects\Liststring\Liststring\obj\Debug\Liststring.csproj.AssemblyReference.cache
+C:\NH\.NET Projects\Liststring\Liststring\obj\Debug\Liststring.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\Liststring\Liststring\obj\Debug\Liststring.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Liststring\Liststring\obj\Debug\Liststring.exe
+C:\NH\.NET Projects\Liststring\Liststring\obj\Debug\Liststring.pdb

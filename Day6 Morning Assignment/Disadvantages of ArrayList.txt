@@ -1,0 +1,3 @@
+Disadvantages of ArrayList:
+1.Every time we have to box and unbox it to get the value.
+2.If we want to add different datatype we will get runtime errors which are dangerous than compile time errors.

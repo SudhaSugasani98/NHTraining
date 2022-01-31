@@ -102,7 +102,7 @@ namespace Hospital
             //Todo
         }
     }
-    class Ambulance
+    class Ambulance 
     {
         private String ambulancenumber;
         private String nameofdriver;
@@ -126,6 +126,8 @@ namespace Hospital
         {
             //Todo
         }
+      
     }
+    
 
 }

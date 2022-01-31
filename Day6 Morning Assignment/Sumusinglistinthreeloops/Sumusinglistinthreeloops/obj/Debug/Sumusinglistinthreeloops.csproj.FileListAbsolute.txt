@@ -1,0 +1,8 @@
+C:\NH\.NET Projects\Sumusinglistinthreeloops\Sumusinglistinthreeloops\bin\Debug\Sumusinglistinthreeloops.exe.config
+C:\NH\.NET Projects\Sumusinglistinthreeloops\Sumusinglistinthreeloops\bin\Debug\Sumusinglistinthreeloops.exe
+C:\NH\.NET Projects\Sumusinglistinthreeloops\Sumusinglistinthreeloops\bin\Debug\Sumusinglistinthreeloops.pdb
+C:\NH\.NET Projects\Sumusinglistinthreeloops\Sumusinglistinthreeloops\obj\Debug\Sumusinglistinthreeloops.csproj.AssemblyReference.cache
+C:\NH\.NET Projects\Sumusinglistinthreeloops\Sumusinglistinthreeloops\obj\Debug\Sumusinglistinthreeloops.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\Sumusinglistinthreeloops\Sumusinglistinthreeloops\obj\Debug\Sumusinglistinthreeloops.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Sumusinglistinthreeloops\Sumusinglistinthreeloops\obj\Debug\Sumusinglistinthreeloops.exe
+C:\NH\.NET Projects\Sumusinglistinthreeloops\Sumusinglistinthreeloops\obj\Debug\Sumusinglistinthreeloops.pdb
