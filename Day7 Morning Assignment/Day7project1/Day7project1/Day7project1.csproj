@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E369F7C2-FF0C-4F8C-82AC-63B0B44515C6}</ProjectGuid>
+    <ProjectGuid>{14674987-E37E-48F2-9E69-A5AADB27FAEF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Factorsofgiveennumber</RootNamespace>
-    <AssemblyName>Factorsofgiveennumber</AssemblyName>
+    <RootNamespace>Day7project1</RootNamespace>
+    <AssemblyName>Day7project1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
