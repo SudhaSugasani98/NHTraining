@@ -11,9 +11,9 @@ namespace Day7project1
     {
         //Public variables
 
-        public int id;
-        public string name;
-        public int salary;
+        private int id;
+        private string name;
+        private int salary;
         
         //ReadEmploye method to read data from user
         public void ReadEmploye()
