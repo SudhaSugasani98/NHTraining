@@ -1,0 +1,8 @@
+C:\NH\.NET Projects\Day10project4\Day10project4\bin\Debug\Day10project4.exe.config
+C:\NH\.NET Projects\Day10project4\Day10project4\bin\Debug\Day10project4.exe
+C:\NH\.NET Projects\Day10project4\Day10project4\bin\Debug\Day10project4.pdb
+C:\NH\.NET Projects\Day10project4\Day10project4\obj\Debug\Day10project4.csproj.AssemblyReference.cache
+C:\NH\.NET Projects\Day10project4\Day10project4\obj\Debug\Day10project4.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\Day10project4\Day10project4\obj\Debug\Day10project4.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Day10project4\Day10project4\obj\Debug\Day10project4.exe
+C:\NH\.NET Projects\Day10project4\Day10project4\obj\Debug\Day10project4.pdb
