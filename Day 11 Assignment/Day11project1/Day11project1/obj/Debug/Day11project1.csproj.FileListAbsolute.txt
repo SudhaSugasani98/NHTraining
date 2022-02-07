@@ -1,0 +1,7 @@
+C:\NH\.NET Projects\Day11project1\Day11project1\bin\Debug\Day11project1.exe.config
+C:\NH\.NET Projects\Day11project1\Day11project1\bin\Debug\Day11project1.exe
+C:\NH\.NET Projects\Day11project1\Day11project1\bin\Debug\Day11project1.pdb
+C:\NH\.NET Projects\Day11project1\Day11project1\obj\Debug\Day11project1.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\Day11project1\Day11project1\obj\Debug\Day11project1.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Day11project1\Day11project1\obj\Debug\Day11project1.exe
+C:\NH\.NET Projects\Day11project1\Day11project1\obj\Debug\Day11project1.pdb
