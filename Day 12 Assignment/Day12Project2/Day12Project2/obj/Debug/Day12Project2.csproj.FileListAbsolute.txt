@@ -1,0 +1,15 @@
+C:\NH\.NET Projects\Day12Project2\Day12Project2\bin\Debug\Day12Project2.exe.config
+C:\NH\.NET Projects\Day12Project2\Day12Project2\bin\Debug\Day12Project2.exe
+C:\NH\.NET Projects\Day12Project2\Day12Project2\bin\Debug\Day12Project2.pdb
+C:\NH\.NET Projects\Day12Project2\Day12Project2\obj\Debug\Day12Project2.csproj.AssemblyReference.cache
+C:\NH\.NET Projects\Day12Project2\Day12Project2\obj\Debug\Day12Project2.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\Day12Project2\Day12Project2\obj\Debug\Day12Project2.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Day12Project2\Day12Project2\obj\Debug\Day12Project2.exe
+C:\NH\.NET Projects\Day12Project2\Day12Project2\obj\Debug\Day12Project2.pdb
+C:\NH\.NET Projects\Day12Project2\Day12Project2\bin\Debug\AForge.dll
+C:\NH\.NET Projects\Day12Project2\Day12Project2\bin\Debug\AForge.Imaging.dll
+C:\NH\.NET Projects\Day12Project2\Day12Project2\bin\Debug\AForge.Math.dll
+C:\NH\.NET Projects\Day12Project2\Day12Project2\bin\Debug\AForge.xml
+C:\NH\.NET Projects\Day12Project2\Day12Project2\bin\Debug\AForge.Imaging.xml
+C:\NH\.NET Projects\Day12Project2\Day12Project2\bin\Debug\AForge.Math.xml
+C:\NH\.NET Projects\Day12Project2\Day12Project2\obj\Debug\Day12Project2.csproj.CopyComplete
