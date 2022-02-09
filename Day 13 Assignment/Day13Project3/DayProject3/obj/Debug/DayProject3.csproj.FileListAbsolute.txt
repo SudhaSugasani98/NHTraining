@@ -5,3 +5,4 @@ C:\NH\.NET Projects\Day 13 Assignment\DayProject3\DayProject3\obj\Debug\DayProje
 C:\NH\.NET Projects\Day 13 Assignment\DayProject3\DayProject3\obj\Debug\DayProject3.csproj.CoreCompileInputs.cache
 C:\NH\.NET Projects\Day 13 Assignment\DayProject3\DayProject3\obj\Debug\DayProject3.exe
 C:\NH\.NET Projects\Day 13 Assignment\DayProject3\DayProject3\obj\Debug\DayProject3.pdb
+C:\NH\.NET Projects\Day 13 Assignment\DayProject3\DayProject3\obj\Debug\DayProject3.csproj.AssemblyReference.cache

@@ -6,14 +6,7 @@ using System.Threading.Tasks;
 
 namespace Day13Project2
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
-
-
-    /****************************************************************
+   /****************************************************************
      * Author:Sudha Kumari Sugasani
      * Purpose: Declaration and intialisation  of 2 dimensional array 
      *          in same line of size(3x2),print the values using 

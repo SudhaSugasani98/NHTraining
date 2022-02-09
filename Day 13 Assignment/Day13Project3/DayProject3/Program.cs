@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DayProject3
+namespace Day13Project3
 {
     using System;
     using System.Collections.Generic;
@@ -12,15 +12,7 @@ namespace DayProject3
     using System.Text;
     using System.Threading.Tasks;
 
-    namespace Day13Project2
-    {
-        using System;
-        using System.Collections.Generic;
-        using System.Linq;
-        using System.Text;
-        using System.Threading.Tasks;
-
-
+   
         /****************************************************************
          * Author:Sudha Kumari Sugasani
          * Purpose: Declaration of 2 dimensional array  of size(3x2),
@@ -51,5 +43,4 @@ namespace DayProject3
                 Console.ReadLine();
             }
         }
-    }
-}
+ }
