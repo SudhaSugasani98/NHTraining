@@ -1,0 +1,5 @@
+C:\NH\.NET Projects\SudhaSugasaniLibrary\SudhaSugasaniLibrary\bin\Debug\SudhaSugasaniLibrary.dll
+C:\NH\.NET Projects\SudhaSugasaniLibrary\SudhaSugasaniLibrary\bin\Debug\SudhaSugasaniLibrary.pdb
+C:\NH\.NET Projects\SudhaSugasaniLibrary\SudhaSugasaniLibrary\obj\Debug\SudhaSugasaniLibrary.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\SudhaSugasaniLibrary\SudhaSugasaniLibrary\obj\Debug\SudhaSugasaniLibrary.dll
+C:\NH\.NET Projects\SudhaSugasaniLibrary\SudhaSugasaniLibrary\obj\Debug\SudhaSugasaniLibrary.pdb
