@@ -1,0 +1,6 @@
+C:\NH\.NET Projects\MyProject2\SudhaSLibrary\bin\Debug\SudhaSLibrary.dll
+C:\NH\.NET Projects\MyProject2\SudhaSLibrary\bin\Debug\SudhaSLibrary.pdb
+C:\NH\.NET Projects\MyProject2\SudhaSLibrary\obj\Debug\SudhaSLibrary.csproj.AssemblyReference.cache
+C:\NH\.NET Projects\MyProject2\SudhaSLibrary\obj\Debug\SudhaSLibrary.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\MyProject2\SudhaSLibrary\obj\Debug\SudhaSLibrary.dll
+C:\NH\.NET Projects\MyProject2\SudhaSLibrary\obj\Debug\SudhaSLibrary.pdb
