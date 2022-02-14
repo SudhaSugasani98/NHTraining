@@ -1,0 +1,13 @@
+C:\NH\.NET Projects\MyProject\ClientApp\bin\Debug\ClientApp.exe.config
+C:\NH\.NET Projects\MyProject\ClientApp\bin\Debug\ClientApp.exe
+C:\NH\.NET Projects\MyProject\ClientApp\bin\Debug\ClientApp.pdb
+C:\NH\.NET Projects\MyProject\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\NH\.NET Projects\MyProject\ClientApp\obj\Debug\ClientApp.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\MyProject\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\MyProject\ClientApp\obj\Debug\ClientApp.exe
+C:\NH\.NET Projects\MyProject\ClientApp\obj\Debug\ClientApp.pdb
+C:\NH\.NET Projects\MyProject\ClientApp\bin\Debug\PublicLibrary.dll
+C:\NH\.NET Projects\MyProject\ClientApp\bin\Debug\SudhaLibrary.dll
+C:\NH\.NET Projects\MyProject\ClientApp\bin\Debug\PublicLibrary.pdb
+C:\NH\.NET Projects\MyProject\ClientApp\bin\Debug\SudhaLibrary.pdb
+C:\NH\.NET Projects\MyProject\ClientApp\obj\Debug\ClientApp.csproj.CopyComplete
