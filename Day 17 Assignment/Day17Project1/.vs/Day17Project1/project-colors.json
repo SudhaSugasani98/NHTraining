@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "572543bf-5a44-4a80-8c60-df673b164fec": {
+      "ProjectGuid": "572543bf-5a44-4a80-8c60-df673b164fec",
+      "DisplayName": "Day17Project1",
+      "ColorIndex": 0
+    },
+    "a05b2cc5-fe19-4321-83bd-d3557f24cab8": {
+      "ProjectGuid": "a05b2cc5-fe19-4321-83bd-d3557f24cab8",
+      "DisplayName": "SudhaLibrary",
+      "ColorIndex": 1
+    },
+    "26f3c8e4-3791-4c75-8be9-86ee29678ae9": {
+      "ProjectGuid": "26f3c8e4-3791-4c75-8be9-86ee29678ae9",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

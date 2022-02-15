@@ -1,0 +1,6 @@
+C:\NH\.NET Projects\Day17Project1\PublicLibrary\bin\Debug\PublicLibrary.dll
+C:\NH\.NET Projects\Day17Project1\PublicLibrary\bin\Debug\PublicLibrary.pdb
+C:\NH\.NET Projects\Day17Project1\PublicLibrary\obj\Debug\PublicLibrary.csproj.AssemblyReference.cache
+C:\NH\.NET Projects\Day17Project1\PublicLibrary\obj\Debug\PublicLibrary.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Day17Project1\PublicLibrary\obj\Debug\PublicLibrary.dll
+C:\NH\.NET Projects\Day17Project1\PublicLibrary\obj\Debug\PublicLibrary.pdb
