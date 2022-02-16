@@ -1,0 +1,11 @@
+C:\NH\.NET Projects\Day18Project1\Day18Project1\bin\Debug\Day18Project1.exe.config
+C:\NH\.NET Projects\Day18Project1\Day18Project1\bin\Debug\Day18Project1.exe
+C:\NH\.NET Projects\Day18Project1\Day18Project1\bin\Debug\Day18Project1.pdb
+C:\NH\.NET Projects\Day18Project1\Day18Project1\obj\Debug\Day18Project1.csproj.AssemblyReference.cache
+C:\NH\.NET Projects\Day18Project1\Day18Project1\obj\Debug\Day18Project1.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\Day18Project1\Day18Project1\obj\Debug\Day18Project1.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Day18Project1\Day18Project1\obj\Debug\Day18Project1.exe
+C:\NH\.NET Projects\Day18Project1\Day18Project1\obj\Debug\Day18Project1.pdb
+C:\NH\.NET Projects\Day18Project1\Day18Project1\bin\Debug\MathematicsLibrary.dll
+C:\NH\.NET Projects\Day18Project1\Day18Project1\bin\Debug\MathematicsLibrary.pdb
+C:\NH\.NET Projects\Day18Project1\Day18Project1\obj\Debug\Day18Project1.csproj.CopyComplete
