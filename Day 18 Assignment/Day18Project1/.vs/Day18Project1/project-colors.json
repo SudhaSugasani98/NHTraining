@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1ff0557f-b106-4ad1-8c60-3c8d9632d30a": {
+      "ProjectGuid": "1ff0557f-b106-4ad1-8c60-3c8d9632d30a",
+      "DisplayName": "MyApp",
+      "ColorIndex": 0
+    },
+    "1af103a4-e8e4-462e-a268-73a2cf937177": {
+      "ProjectGuid": "1af103a4-e8e4-462e-a268-73a2cf937177",
+      "DisplayName": "MathematicsLibrary",
+      "ColorIndex": 1
+    },
+    "2a310451-5378-478f-b83d-ca844bb3bace": {
+      "ProjectGuid": "2a310451-5378-478f-b83d-ca844bb3bace",
+      "DisplayName": "Day18Project1",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
