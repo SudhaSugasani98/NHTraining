@@ -1,0 +1,17 @@
+C:\NH\.NET Projects\Day18Project2\MathematicsLibrary1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\NH\.NET Projects\Day18Project2\MathematicsLibrary1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\NH\.NET Projects\Day18Project2\MathematicsLibrary1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\NH\.NET Projects\Day18Project2\MathematicsLibrary1Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\NH\.NET Projects\Day18Project2\MathematicsLibrary1Tests\bin\Debug\MathematicsLibrary1Tests.dll
+C:\NH\.NET Projects\Day18Project2\MathematicsLibrary1Tests\bin\Debug\MathematicsLibrary1Tests.pdb
+C:\NH\.NET Projects\Day18Project2\MathematicsLibrary1Tests\bin\Debug\MathematicsLibrary1.dll
+C:\NH\.NET Projects\Day18Project2\MathematicsLibrary1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\NH\.NET Projects\Day18Project2\MathematicsLibrary1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\NH\.NET Projects\Day18Project2\MathematicsLibrary1Tests\bin\Debug\MathematicsLibrary1.pdb
+C:\NH\.NET Projects\Day18Project2\MathematicsLibrary1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\NH\.NET Projects\Day18Project2\MathematicsLibrary1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\NH\.NET Projects\Day18Project2\MathematicsLibrary1Tests\obj\Debug\MathematicsLibrary1Tests.csproj.AssemblyReference.cache
+C:\NH\.NET Projects\Day18Project2\MathematicsLibrary1Tests\obj\Debug\MathematicsLibrary1Tests.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Day18Project2\MathematicsLibrary1Tests\obj\Debug\MathematicsLibrary1Tests.csproj.CopyComplete
+C:\NH\.NET Projects\Day18Project2\MathematicsLibrary1Tests\obj\Debug\MathematicsLibrary1Tests.dll
+C:\NH\.NET Projects\Day18Project2\MathematicsLibrary1Tests\obj\Debug\MathematicsLibrary1Tests.pdb
