@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e77a67f4-99c2-4497-887d-ca297fef7f35": {
+      "ProjectGuid": "e77a67f4-99c2-4497-887d-ca297fef7f35",
+      "DisplayName": "Day18Project3",
+      "ColorIndex": 0
+    },
+    "00f265fe-f842-4764-89e3-4b02569f9dee": {
+      "ProjectGuid": "00f265fe-f842-4764-89e3-4b02569f9dee",
+      "DisplayName": "MathematicsLibrary2",
+      "ColorIndex": 1
+    },
+    "d2a0a3be-e12c-46c8-a7e3-87e0a09a6319": {
+      "ProjectGuid": "d2a0a3be-e12c-46c8-a7e3-87e0a09a6319",
+      "DisplayName": "MathematicsLibrary2Tests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

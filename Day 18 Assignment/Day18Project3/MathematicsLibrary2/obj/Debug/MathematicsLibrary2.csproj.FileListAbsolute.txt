@@ -1,0 +1,6 @@
+C:\NH\.NET Projects\Day18Project3\MathematicsLibrary2\bin\Debug\MathematicsLibrary2.dll
+C:\NH\.NET Projects\Day18Project3\MathematicsLibrary2\bin\Debug\MathematicsLibrary2.pdb
+C:\NH\.NET Projects\Day18Project3\MathematicsLibrary2\obj\Debug\MathematicsLibrary2.csproj.AssemblyReference.cache
+C:\NH\.NET Projects\Day18Project3\MathematicsLibrary2\obj\Debug\MathematicsLibrary2.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\Day18Project3\MathematicsLibrary2\obj\Debug\MathematicsLibrary2.dll
+C:\NH\.NET Projects\Day18Project3\MathematicsLibrary2\obj\Debug\MathematicsLibrary2.pdb
