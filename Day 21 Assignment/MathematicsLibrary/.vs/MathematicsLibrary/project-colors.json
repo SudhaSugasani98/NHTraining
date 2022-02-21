@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1b666e00-c69e-425c-b9cc-f0ea321ef2c3": {
+      "ProjectGuid": "1b666e00-c69e-425c-b9cc-f0ea321ef2c3",
+      "DisplayName": "MathematicsLibrary",
+      "ColorIndex": 0
+    },
+    "17a90d35-e2b9-4315-b4d3-b247a65d4d2e": {
+      "ProjectGuid": "17a90d35-e2b9-4315-b4d3-b247a65d4d2e",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
