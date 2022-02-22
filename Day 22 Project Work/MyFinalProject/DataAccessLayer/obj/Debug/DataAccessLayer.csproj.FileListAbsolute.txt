@@ -1,0 +1,5 @@
+C:\NH\.NET Projects\MyFinalProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\NH\.NET Projects\MyFinalProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\NH\.NET Projects\MyFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\MyFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\NH\.NET Projects\MyFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

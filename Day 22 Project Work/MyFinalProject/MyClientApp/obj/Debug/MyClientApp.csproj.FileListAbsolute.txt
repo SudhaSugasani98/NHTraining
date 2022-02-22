@@ -1,0 +1,13 @@
+C:\NH\.NET Projects\MyFinalProject\MyClientApp\bin\Debug\MyClientApp.exe.config
+C:\NH\.NET Projects\MyFinalProject\MyClientApp\bin\Debug\MyClientApp.exe
+C:\NH\.NET Projects\MyFinalProject\MyClientApp\bin\Debug\MyClientApp.pdb
+C:\NH\.NET Projects\MyFinalProject\MyClientApp\bin\Debug\BusinessLogicLibrary.dll
+C:\NH\.NET Projects\MyFinalProject\MyClientApp\bin\Debug\DataAccessLayer.dll
+C:\NH\.NET Projects\MyFinalProject\MyClientApp\bin\Debug\BusinessLogicLibrary.pdb
+C:\NH\.NET Projects\MyFinalProject\MyClientApp\bin\Debug\DataAccessLayer.pdb
+C:\NH\.NET Projects\MyFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.AssemblyReference.cache
+C:\NH\.NET Projects\MyFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.SuggestedBindingRedirects.cache
+C:\NH\.NET Projects\MyFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.CoreCompileInputs.cache
+C:\NH\.NET Projects\MyFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.CopyComplete
+C:\NH\.NET Projects\MyFinalProject\MyClientApp\obj\Debug\MyClientApp.exe
+C:\NH\.NET Projects\MyFinalProject\MyClientApp\obj\Debug\MyClientApp.pdb
