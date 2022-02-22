@@ -1,0 +1,7 @@
+1,Sudha,15000,22
+2,Susmitha,18000,23
+3,Sudheera,22000,21
+4,Lehana,25000,25
+5,Neeraja,27000,27
+6,Puja,20000,28
+7,Lavanya,16000,28
